@@ -6,3 +6,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skayux&show_icons=true&theme=radical">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skayux&layout=compact&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skayux&repo=Bukkit-Plugins">
