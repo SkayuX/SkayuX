@@ -21,6 +21,6 @@
 
 # Statistics:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Skayux&show_icons=true&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkayuX&langs_count=12&layout=compact&theme=dark">
+<a href="blank"><img src="https://github-readme-stats.vercel.app/api?username=Skayux&show_icons=true&theme=dark"></a>
+<a href="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkayuX&langs_count=12&layout=compact&theme=dark"></a>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=e9f76299-bef3-4ea2-a586-c927bfcc3072&theme=dark">
