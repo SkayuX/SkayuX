@@ -21,5 +21,5 @@
 
 # Statistics:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Skayux&show_icons=true&theme=onedark"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Skayux&show_icons=true&theme=radical"> 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=e9f76299-bef3-4ea2-a586-c927bfcc3072">
