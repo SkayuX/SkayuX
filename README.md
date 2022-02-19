@@ -22,5 +22,5 @@
 # Statistics:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Skayux&show_icons=true&theme=radical">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkayuX&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkayuX&langs_count=8">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=e9f76299-bef3-4ea2-a586-c927bfcc3072">
