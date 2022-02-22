@@ -7,7 +7,7 @@
 
 - Playing games in spare time.
 
-# Languages and Tool I use:
+# Languages and Tools I use:
 
 <img align="left" alt="vscode" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
