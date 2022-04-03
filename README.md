@@ -13,7 +13,7 @@
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="mongo" width="26px" src="https://imgur.com/xN5cFRr.png" />  
-<img align="left" alt="mysql" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/mysql-logo.png" /> 
+<img align="left" alt="mysql" width="26px" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" /> 
 <img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" /> 
 <img align="left" alt="java" width="26px" src="https://www.iprsam.com/wp-content/uploads/2018/12/Java-logo-tr.png" /> 
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" /> 
