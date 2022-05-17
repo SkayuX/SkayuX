@@ -1,5 +1,5 @@
 
-# Skayu [![wakatime](https://wakatime.com/badge/user/e9f76299-bef3-4ea2-a586-c927bfcc3072.svg)](https://wakatime.com/@e9f76299-bef3-4ea2-a586-c927bfcc3072)
+# Skayu [![wakatime](https://wakatime.com/badge/user/e9f76299-bef3-4ea2-a586-c927bfcc3072.svg)](https://wakatime.com/@e9f76299-bef3-4ea2-a586-c927bfcc3072) ![](https://komarev.com/ghpvc/?skayux&color=yellow)
 
 - Self-Taught Programmer,
 
